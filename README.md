@@ -75,8 +75,8 @@ The objective of this project was to transform raw retail sales data into a dash
 
 ---
 
-## Raw Dataset
-The original dataset was a retail sales CSV containing order, customer, product, shipping, pricing, and discount information.
+## Data Source
+The raw dataset used in this project was sourced from Kaggle: Retail Insights: A Comprehensive Sales Dataset. The cleaned analysis-ready dataset (`sales_clean`) was created in Databricks through data cleaning, type conversion, and feature engineering.
 
 ### Relevant raw fields included:
 - Order No
